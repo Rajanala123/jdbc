@@ -15,7 +15,7 @@ public class Conn {
 		if(con==null)
 			System.out.println("jdbc connection is not establlished");
 		else
-			System.out.println("jdbc connection is established");
+			System.out.println("jdbc connection is established"); 
 }
 
 }
